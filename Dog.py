@@ -8,4 +8,4 @@ class Dog:
 		return 12
 
 	def overridenParentMethod(self):
-		return 12
+		return 13
