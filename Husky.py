@@ -11,7 +11,7 @@ class Husky(Dog):
 		print("Husky jumped " +str(b) + " feet high")
 
 	def overridenParentMethod(self):
-		return 10000000
+		return 10000001
 
 
 
